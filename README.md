@@ -1,6 +1,4 @@
-# T-Children The Application
-
-<!-- ![Texto alternativo](./assets/img/t-children-main-title.png) -->
+![# T-Children The Application](./assets/img/t-children-main-title.png)
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
